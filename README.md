@@ -3,6 +3,7 @@
 ## Project Overview
 
 Welcome to the E-Commerce Webpage project! This repository contains the source code for a feature-rich e-commerce website designed to provide users with a seamless online shopping experience. The project includes functionalities such as product browsing, shopping cart management, secure checkout, and user authentication.
+![Screenshot (53)](https://github.com/omkarchoudhary001/apple-Ecommerce/assets/109873576/99eaa2d9-0af0-4f6f-b161-07bcf9136a36)
 
 ## Features
 
@@ -14,6 +15,9 @@ Welcome to the E-Commerce Webpage project! This repository contains the source c
 
 - **Frontend**: HTML, CSS, JavaScript, ReactJS
 - **Version Control**: Git
+
+  
+![Screenshot (54)](https://github.com/omkarchoudhary001/apple-Ecommerce/assets/109873576/69ac930b-7465-47b9-a811-764455a18d66)
 
 ## Usage
 
